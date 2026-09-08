@@ -221,6 +221,24 @@
             "available": true
           }
         ]
+      },
+      {
+        "title": "対数法則クイズ",
+        "badge": "QUIZ",
+        "description": "対数の基本計算と対数法則，底の変換をまとめて確認するクイズ。",
+        "tags": [
+          "対数",
+          "対数法則",
+          "底の変換",
+          "クイズ"
+        ],
+        "links": [
+          {
+            "label": "問題＋解答",
+            "href": "./pdf/logarithm-laws-quiz.pdf",
+            "available": true
+          }
+        ]
       }
     ]
   }
